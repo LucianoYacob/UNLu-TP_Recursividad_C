@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include "TP1_Recursividad.h"
 
-float producto(float, int, float);
-
 void main() {
     float m = -15.5;
     int n = 0;

@@ -25,6 +25,6 @@ void mafiaChina(int, int);
 void ondaDigital(char *, char);
 
 // Ejercicio 8
-void subconjuntosQueSumanN (int *, int);
+void subconjuntosQueSumanN (int *, int, int);
 
 #endif //TP1_Recursividad

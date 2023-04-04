@@ -4,8 +4,6 @@
 #include <ctype.h>
 #include "TP1_Recursividad.h"
 
-bool palindromo(char *, int, int);
-
 void main() {
     char palabra_1[] = "neuquen";
     char palabra_2[] = "pedro";
