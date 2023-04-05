@@ -27,4 +27,7 @@ void ondaDigital(char *, char);
 // Ejercicio 8
 void subconjuntosQueSumanN (int *, int, int);
 
+// Ejercicio 9
+void divisiblePor7(int);
+
 #endif //TP1_Recursividad
